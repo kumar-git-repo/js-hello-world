@@ -4,7 +4,16 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Hello World! My first program....YAY!");
+console.log(5);
+console.log(5+5)
+console.log("My first program\n", "Second Message\n", "Third Message");
+console.log("My first Message on same line.", "My Second Message");
+console.log('"Coding is fun"')
+Var1=1;
+Var2=4;
+console.log(Var1+Var2)
+
 
 /*  
 Next, PLAY! 
